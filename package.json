@@ -1,0 +1,26 @@
+{
+"type": "module",
+  "name": "capitalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergey028/capitalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergey028/capitalize/issues"
+  },
+  "homepage": "https://github.com/sergey028/capitalize#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
